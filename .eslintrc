@@ -1,0 +1,25 @@
+{
+  "extends": ["next/core-web-vitals", "plugin:react/recommended"],
+  "plugins": ["react"],
+  "rules": {
+    "react/jsx-curly-spacing": [
+      "error",
+      {
+        "when": "never",
+        "children": {
+          "when": "always"
+        },
+        "spacing": {
+          "objectLiterals": "never"
+        }
+      }
+    ],
+    "no-unused-vars": "error",
+    "max-warnings": [
+      "error",
+      {
+        "max": 0
+      }
+    ]
+  }
+}
