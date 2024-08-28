@@ -26,7 +26,7 @@ export const socials = [
   {
     id: 3,
     logo: "./link.svg",
-    href: "https://www.linkedin.com/in/wahyuni-anti/",
+    href: "https://www.linkedin.com/in/wahyuni-anti19/",
     alt: "LinkedIn link logo",
   },
 ];
