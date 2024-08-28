@@ -3,7 +3,7 @@ export const navItems = [
   { name: "Experience", link: "#experiance" },
   {
     name: "CV",
-    link: "https://teal-charlot-41.tiiny.site/",
+    link: "",
     target: "_blank",
   },
   { name: "Certificate", link: "#testimonials" },
