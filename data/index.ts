@@ -3,7 +3,7 @@ export const navItems = [
   { name: "Experience", link: "#experiance" },
   {
     name: "CV",
-    link: "https://drive.google.com/file/d/1oM_dbet9wdlYsWheegTfsetBgzZsyI15/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1cxSjC3HIcFbiCFUqC6cxapj1_syYhRIb/view?usp=sharing",
     target: "_blank",
   },
   { name: "Certificate", link: "#testimonials" },
